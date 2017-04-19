@@ -1,0 +1,9 @@
+Write 15 SQL commands in 15 different .sql files.
+
+The SQL statements you write are up to you, but you must include at least two of each of the insert, update, delete, and select SQL commands.
+
+Add SQL comments that explain what each SQL statement is doing.
+
+At least one select statement must have a where clause.
+
+At least one select statement must specify a subset of columns. IE: no *.
